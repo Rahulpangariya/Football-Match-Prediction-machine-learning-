@@ -4,12 +4,12 @@ This project builds a football match prediction model using machine learning. It
 
 The notebook includes:
 
-Data cleaning & feature engineering
+> Data cleaning & feature engineering
 
-Rolling form statistics
+> Rolling form statistics
 
-Train-test split based on match dates
+> Train-test split based on match dates
 
-Model training and evaluation using precision score
+> Model training and evaluation using precision score
 
 This is a baseline sports analytics model that can be improved with more features like team rankings, player stats, and advanced ML tuning.
